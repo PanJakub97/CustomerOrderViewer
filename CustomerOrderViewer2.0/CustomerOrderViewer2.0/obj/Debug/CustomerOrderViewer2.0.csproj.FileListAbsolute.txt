@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\bin\Debug\CustomerOrderViewer2.0.exe.config
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\bin\Debug\CustomerOrderViewer2.0.exe
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\bin\Debug\CustomerOrderViewer2.0.pdb
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\obj\Debug\CustomerOrderViewer2.0.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\obj\Debug\CustomerOrderViewer2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\obj\Debug\CustomerOrderViewer2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\obj\Debug\CustomerOrderViewer2.0.csproj.CopyComplete
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\obj\Debug\CustomerOrderViewer2.0.exe
+C:\Users\User\Desktop\Kodowanie\040_CustomerOrderViewer2.0\CustomerOrderViewer2.0\CustomerOrderViewer2.0\obj\Debug\CustomerOrderViewer2.0.pdb
